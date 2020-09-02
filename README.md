@@ -23,7 +23,7 @@ Help is always appreciated if someone is interested.
 * ✅ View Console output
 * ...probably even more I did not test yet
   
-    
+<img src="https://i.imgur.com/QRwWrA1.gif" />    
 
 ***
 ***
