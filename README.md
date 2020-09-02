@@ -2,7 +2,8 @@ DevTools Backend
 ================
 
 > **This is as copy of the repository [devtools-backend](https://github.com/christian-bromann/devtools-backend) by [Christian Bromann](https://github.com/christian-bromann).     
-Credit for all the previous work goes to him and his contributors. Thank you for letting me reuse and modify it.**
+Credit for all the previous work goes to him and his contributors.   
+Thank you for letting me reuse and modify it.**
 
 ## About  
 The aim of this repository is to have Chrome Devtools working with UI panels in Microsoft FlightSimulator, which are based on web technologies using CoherentGT.  
