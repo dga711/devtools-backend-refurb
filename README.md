@@ -19,7 +19,7 @@ Help is always appreciated if someone is interested.
 
 * ✅ Connect to pages with injected script
 * ✅ View Element Tree and highlighting (disable Screencast)
-* ✅ Change HTML content and have it update in the page
+* ✅ Change HTML content and element attributes
 * ✅ View Console output
 * ...probably even more I did not test yet
   
