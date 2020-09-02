@@ -1,6 +1,33 @@
 DevTools Backend
 ================
 
+> **This is as copy of the repository [devtools-backend](https://github.com/christian-bromann/devtools-backend) by [Christian Bromann](https://github.com/christian-bromann). Credit for all the previous work goes to him and his contributors.  
+Thank you for letting me reuse and modify it.**
+
+## About  
+The aim of this repository is to have Chrome Devtools working with UI panels in Microsoft FlightSimulator, which are based on web technologies using CoherentGT.  
+
+Of course it could also be of use for other games, devices and containers which you can't directly debug with Chrome.
+
+For today's Devtools there is a lot of the protocol missing, some of which I will try to implement. Especially Javascript debugging and Screencast.  
+It will not use the latest dependency versions as CoherentGT runs on Chrome 49.
+
+Help is always appreciated if someone is interested. 
+
+## What is working
+
+* ✅ Connect to pages with injected script
+* ✅ View Element Tree and highlighting (disable Screencast)
+* ✅ Change HTML content and have it update in the page
+* ✅ View Console output
+* ...probably even more I did not test yet
+  
+    
+
+***
+***
+# Old Readme
+
 A Node.JS implementation of the Chrome DevTools backend for debugging arbitrary web platforms (e.g. HbbTV applications on Smart TVs). It is the counterpart of the [devtools-frontend](https://github.com/ChromeDevTools/devtools-frontend) and is like [weinre](https://people.apache.org/~pmuellr/weinre/docs/latest/Home.html) just in "new".
 
 # Requirements
