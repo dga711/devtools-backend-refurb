@@ -21,6 +21,8 @@ Help is always appreciated if someone is interested.
 * ✅ View Element Tree and highlighting (disable Screencast in DevTool frontend)
 * ✅ Change HTML content and element attributes
 * ✅ View Console output and execute commands
+* ✅ View Sources (debugging not possible)
+* ✅ Reload the page, ignoring cache
 * ...probably even more I did not test yet
   
 <img src="https://i.imgur.com/QRwWrA1.gif" />    
