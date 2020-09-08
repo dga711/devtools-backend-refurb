@@ -13,7 +13,9 @@ Of course it could also be of use for other games, devices and containers which 
 For today's Devtools there is a lot of the protocol missing, some of which I will try to implement. Especially Javascript debugging and Screencast.  
 It will not use the latest dependency versions as CoherentGT runs on Chrome 49.
 
-Help is always appreciated if someone is interested. 
+Help is always appreciated if someone is interested.
+
+**Make sure to run `npm run build` after you get updates from this repo.**
 
 ## What is working
 
