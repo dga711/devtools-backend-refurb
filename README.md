@@ -25,6 +25,11 @@ Help is always appreciated if someone is interested.
   
 <img src="https://i.imgur.com/QRwWrA1.gif" />    
 
+MSFS Script Injection
+To manually inject a script put the following script tag at the top of the page you want to inspect. For example for the CJ4 FMC it would be CJ4_FMC.html:
+<script src="http://localhost:9222/scripts/launcher.js" data-origin="debugger"></script>
+Maybe reload the page in MSFS via devkit. Then visit `localhost:9222` in a browser.
+
 ***
 ***
 # Old Readme
