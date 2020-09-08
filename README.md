@@ -1,7 +1,7 @@
 DevTools Backend
 ================
 
-> **This is as copy of the repository [devtools-backend](https://github.com/christian-bromann/devtools-backend) by [Christian Bromann](https://github.com/christian-bromann).     
+> **The base of this repo is as copy of the repository [devtools-backend](https://github.com/christian-bromann/devtools-backend) by [Christian Bromann](https://github.com/christian-bromann).     
 Credit for all the previous work goes to him and his contributors.   
 Thank you for letting me reuse and modify it.**
 
@@ -18,9 +18,9 @@ Help is always appreciated if someone is interested.
 ## What is working
 
 * ✅ Connect to pages with injected script
-* ✅ View Element Tree and highlighting (disable Screencast)
+* ✅ View Element Tree and highlighting (disable Screencast in DevTool frontend)
 * ✅ Change HTML content and element attributes
-* ✅ View Console output
+* ✅ View Console output and execute commands
 * ...probably even more I did not test yet
   
 <img src="https://i.imgur.com/QRwWrA1.gif" />    
